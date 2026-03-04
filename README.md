@@ -1,7 +1,8 @@
 # Dining-match-AI
+Final project for the Building AI course
 
 ## Summary
-The purpose of the project is to make decision-making easier, where and what to eat in a restaurants while on a trip or for everyday life. The purpose for the app is to help people to make faster decisions, when hungry and tired. Decisions are harder to make when hungry, and meanwhile lack energy. 
+The purpose of the project is to make decision-making easier, where and what to eat in a restaurants while on a trip or for everyday life. The purpose for the app is to help people to make faster decisions. 
 
 ## Background
 The problem is that it is hard sometimes to decide what and where you should eat, when out on a trip or in everyday life. From personal experience this is a common problem, and people don't always know what they are craving for dinner after a long day. The purpose for the app is to help people to make faster decisions, when hungry and tired. Decisions are harder to make when hungry, and meanwhile lack energy. 
